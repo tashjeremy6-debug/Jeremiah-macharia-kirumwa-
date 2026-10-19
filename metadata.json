@@ -1,0 +1,6 @@
+{
+  "name": "AetherTrade - AI Crypto Trading & Risk Terminal",
+  "description": "Institutional-grade AI cryptocurrency trading bot featuring real-time market technical analysis, autonomous portfolio management, manual trade overrides, and customizable risk controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
